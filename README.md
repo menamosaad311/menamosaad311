@@ -18,7 +18,7 @@
 
 # 💫 About Me:
 I’m a Fresh AI & Machine Learning Engineer passionate about Data Analysis, Data Science, and Deep Learning. 
-<br>🎓I hold a Bachelor's degree in Computer and Control Engineering <br>🎓I'm currently pursuing a Master's degree in Artificial Intelligence (AI).
+<br>🎓I hold a Bachelor's degree in Computer and Control Engineering and I'm currently pursuing a Master's degree in Artificial Intelligence (AI).
 <br>I’ve recently worked on a Smart Food Detection and Classification model, combining Computer Vision and Machine Learning to deliver accurate results.  <br>With a strong enthusiasm for Mathematics, Statistics, and Computer Science, I enjoy unlocking the power of data to deliver meaningful insights.<br><br>🔭 Currently working on: Building dashboards using Python  <br>🌱 Currently learning: Deep Learning Optimization & Real-time AI Applications  <br>💼 Open to: AI, Data Science, and Machine Learning collaborations  <br>📫 Reach me at: menamosaad311@gmail.com<br>
 
 
