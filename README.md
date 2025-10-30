@@ -6,10 +6,11 @@
   <a href="https://github.com/MenaMosaadElSherbiny?tab=followers">
     <img src="https://img.shields.io/github/followers/MenaMosaadElSherbiny?label=Followers&style=social" alt="GitHub followers" />
   </a>
-  <a href="https://www.linkedin.com/in/mena-elsherbiny/">
+  <a href="https://www.linkedin.com/in/mena-elsherbiny-828067375/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
+
 
 # 💫 About Me:
 I’m a Fresh AI & Machine Learning Engineer passionate about Data Analysis, Data Science, and Deep Learning.  <br>I’ve recently worked on a Smart Food Detection and Classification model, combining Computer Vision and Machine Learning to deliver accurate results.  <br>With a strong enthusiasm for Mathematics, Statistics, and Computer Science, I enjoy unlocking the power of data to deliver meaningful insights.<br><br>🔭 Currently working on: Building dashboards using Python  <br>🌱 Currently learning: Deep Learning Optimization & Real-time AI Applications  <br>💼 Open to: AI, Data Science, and Machine Learning collaborations  <br>📫 Reach me at: menamosaad311@gmail.com<br>
