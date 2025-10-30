@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hello, I'm Mena ElSherbiny</h1>
-<h3 align="center"> BSc in Computer & Control Engineering ✅</h3>
-<h3 align="center"> MSc in Artificial Intelligence (in progress..⏳)</h3>
 
 <h3 align="center">Data Analyst | AI & ML Enthusiast | Mathematician</h3>
+
+<h5 align="center"> BSc in Computer & Control Engineering ✅</h5>
+<h5 align="center"> MSc in Artificial Intelligence (in progress..⏳)</h5>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MenaMosaadElSherbiny&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
